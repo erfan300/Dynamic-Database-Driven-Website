@@ -17,5 +17,5 @@ There are 6 implemented security features such as: authentication, authorisation
 
 Unfortunately there are a few files/folders that won't be able to be uploaded to Github, but they are standard files/folders found in any Laravel project such as the .env file connecting the website to the database.
 
-##[The finished Product] (http://220117609.cs2410-web01pvm.aston.ac.uk/portfolio_3/public/home).
+The finished product: (http://220117609.cs2410-web01pvm.aston.ac.uk/portfolio_3/public/home).
 
